@@ -16,7 +16,7 @@ Before running the Terraform configuration, ensure you have the following instal
 
 ```git clone https://github.com/jourzy/terraform-docker-container.git```
 
-```cd terraform-docker-nginx```
+```cd terraform-docker-container```
 
 2. Initialize the Terraform working directory
 
